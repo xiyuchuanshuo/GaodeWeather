@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imagelist>
+  <weatherimage>
+    <sysface id="1" title="微笑" fileName="1.gif"/>
+    <sysface id="2" title="撇嘴" fileName="2.gif"/>
+  </weatherimage>
+</imagelist>
